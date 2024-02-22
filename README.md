@@ -1,4 +1,38 @@
 # 🦜Parrot90...
+<pre><code>this is my highlighted code</code></pre>
+html {
+	font-size: 5vmin;
+	text-align: center;
+}
+
+
+::highlight(rangeA) {
+  background-color: rgb(255 0 0 / 0.5) /* red */
+}
+
+::highlight(rangeB) {
+  background-color: rgb(255 255 0 / 0.5) /* orange */
+}
+
+
+console.clear()
+let text_node = document.querySelector('code').firstChild
+
+let highlightA = new Highlight()
+let rangeA = new Range()
+rangeA.setStart(text_node, 0)
+rangeA.setEnd(text_node, 15)
+highlightA.add(rangeA)
+CSS.highlights.set('rangeA', highlightA)
+
+let highlightB = new Highlight()
+let rangeB = new Range()
+rangeB.setStart(text_node, 10)
+rangeB.setEnd(text_node, 25)
+highlightB.add(rangeB)
+CSS.highlights.set('rangeB', highlightB)
+
+
 ***Coding Craftsman (Developer / Creator / Designer )***
 
 I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Machine Learning and tires to build my version of the digital world one step ahead than future . All coding projects are built from the ground up, from planning and designing all the way to manipulating or recreating or replicating in diffrent approach which deals with real-life problems with code. All the projects is built in the same way from ideation,planningand execution, all the way upto the way to finalizing the content with artistic touches. 
