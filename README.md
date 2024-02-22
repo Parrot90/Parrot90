@@ -8,7 +8,19 @@ I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Mac
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Always+Learning+New+Stuffs+%F0%9F%A4%96;AI+and+ML+Enthusiastic+%F0%9F%98%8E;Full+Stack+Python+Devloper+%F0%9F%90%8D;Full+Stack+Web+Devloper+%F0%9F%91%8C;Research+On+LLM+And+Image+Generation+%F0%9F%94%8E" alt="Typing SVG" /></a>
 </p>
-                                                                <h3>🧰 Frameworks and Libraries</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Parrot90</h1>
+<h3 align="center">A Tech Enthusiastic Guy from India </h3> <br>
+<div align=center> 
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,idea,ps,ai,figma,xd,linux,md&theme=light&perline=10" />
+  </a>
+</p>
+
+
+
+                                                    <h3>🧰 Frameworks and Libraries</h3>
  <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
