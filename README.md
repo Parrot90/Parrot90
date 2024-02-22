@@ -1,6 +1,9 @@
 # 🦜Parrot90...
 ***Coding Craftsman (Developer / Creator / Designer )***
 
+I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Machine Learning and tires to build my version of the digital world one step ahead than future . All coding projects are built from the ground up, from planning and designing all the way to manipulating or recreating or replicating in diffrent approach which deals with real-life problems with code. All the projects is built in the same way from ideation,planningand execution, all the way upto the way to finalizing the content with artistic touches. 
+
+
 <!--
 **Parrot90/Parrot90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
