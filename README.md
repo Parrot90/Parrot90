@@ -1,4 +1,5 @@
-# <img align= "left" alt="java" width="30px" style="padding-right:10px;" src=![parrot_1f99c](https://github.com/Parrot90/Parrot90/assets/91020783/6037dfe5-5e28-41ad-8bc2-ff319ceff8ac)"/> Parrot90
+# 🦜Parrot90...
+***Coding Craftsman (Developer / Creator / Designer )***
 
 <!--
 **Parrot90/Parrot90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
