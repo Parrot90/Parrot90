@@ -17,6 +17,9 @@ I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Mac
     <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,idea,ps,ai,figma,xd,linux,md&theme=light&perline=10" />
   </a>
 </p>
+<pre><code>                                                        👋Connect With Me👋                 </code></pre>
+
+
 
 
 
