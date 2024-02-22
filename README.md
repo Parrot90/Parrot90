@@ -18,7 +18,10 @@ I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Mac
   </a>
 </p>
 <pre><code>                                                        👋Connect With Me👋                 </code></pre>
-
+<p align="left">
+<a href="https://www.instagram.com/ayushroutraykingamer?igsh=MWdubjRnb254MWRmZw==" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/instagram.png" alt="Parrot90" height="50" width="50" /></a>
+<a href="hhhhh" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/reddit.png" alt="Parrot90" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ayush-routray-0870442b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/linkedin.png" alt="Parrot90" height="50" width="50" /></a>
 
 
 
