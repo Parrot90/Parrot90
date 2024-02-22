@@ -1,10 +1,28 @@
 #🦜Parrot90
-# Hello there! 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Parrot90</h1>
+<h3 align="center">A Devloper from INDIA </h3> <br>
+<div align=center> 
 
+  </div>
+<pre><code>Bio🔍:</code></pre>
 
-### Bio:
+ I'm an indie full-stack devloper and Tech Enthusiast on Artifical Inteligence and Machine Learning building my version of digital world where all the projects are build-up on the basis of Real-Life Instances Solving Real Life problems with code.
+ All the projects are built from the ground up, from planning and designing all the way till Execution. I publish all my content in github as open-source project for later highlights and developments.
 
 Ayush is a software engineer with a passion for Data Science, Python, MLOps, and Frontend.
+<pre><code>👋Connect With Me✌️:</code></pre>
+<a href="https://www.instagram.com/ayushroutraykingamer?igsh=MWdubjRnb254MWRmZw==" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/instagram.png" alt="Parrot90" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ayush-routray-0870442b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/linkedin.png" alt="Parrot90" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/Parrot90/Parrot90/blob/main/reddit.png" alt="Parrot90" height="50" width="50" /></a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,idea,ps,ai,figma,xd,linux,md&theme=light&perline=10" />
+  </a>
+</p>
+
+
             
 
 ### Streetcred:
