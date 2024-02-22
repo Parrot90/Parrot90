@@ -10,11 +10,8 @@ I'm an indie AI developer and Tech Enthusiastic on Artifical Inteligence and Mac
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Always+Learning+New+Stuffs+%F0%9F%A4%96;AI+and+ML+Enthusiastic+%F0%9F%98%8E;Full+Stack+Python+Devloper+%F0%9F%90%8D;Full+Stack+Web+Devloper+%F0%9F%91%8C;Research+On+LLM+And+Image+Generation+%F0%9F%94%8E)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Always+Learning+New+Stuffs+%F0%9F%A4%96;AI+and+ML+Enthusiastic+%F0%9F%98%8E;Full+Stack+Python+Devloper+%F0%9F%90%8D;Full+Stack+Web+Devloper+%F0%9F%91%8C;Research+On+LLM+And+Image+Generation+%F0%9F%94%8E" alt="Typing SVG" /></a>
 
 <!--
 **Parrot90/Parrot90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
