@@ -1,4 +1,4 @@
-#🦜Parrot90
+🦜Parrot90
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Parrot90</h1>
 <h3 align="center">A Devloper from INDIA </h3> <br>
 <div align=center> 
@@ -123,37 +123,36 @@ Ayush is a software engineer with a passion for Data Science, Python, MLOps, and
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-
-
-            
-
-### Streetcred:
+<pre><code><h3>❤️‍🔥Streetcred</code></pre>
 
 <a href="https://www.tublian.com/profile/Parrot90?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Parrot90?type=without_score"></a>
 
-### My Stack:
+<pre><code><h3>👾My Stack</h3></code></pre>
 
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/>
 
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
 
-### 
-
-### Links:
-
-### <a href="https://www.github.com/Parrot90">github</a>
-
-## 👇 Few things about my Github
+ <pre><code><h3>👇 Few things about my Github</h3></code></pre>
 
 ![Parrot90 GitHub stats](https://github-readme-stats.vercel.app/api?username=Parrot90&show_icons=true&theme=transparent)
 
 
+  <pre><code><h3>💻 GitHub Profile Stats</pre></code></h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Parrot90's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Parrot90's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Parrot90&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <div>
 
-            
-
-### summary
+<pre><code><h3>😊Summary</h3></code></pre>
 *Ayush is a software engineer with a passion for Data Science, Python, MLOps, and Frontend.*
 
             
