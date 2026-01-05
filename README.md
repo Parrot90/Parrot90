@@ -123,13 +123,6 @@ Ayush is a software engineer with a passion for Data Science, Python, MLOps, and
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-<pre><code><h3>❤️‍🔥Streetcred</code></pre>
-
-<a href="https://www.tublian.com/profile/Parrot90?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Parrot90?type=without_score"></a>
-
-<pre><code><h3>👾My Stack</h3></code></pre>
-
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/>
 
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
 
