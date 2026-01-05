@@ -128,8 +128,6 @@ Ayush is a software engineer with a passion for Data Science, Python, MLOps, and
 
  <pre><code><h3>👇 Few things about my Github</h3></code></pre>
 
-![Parrot90 GitHub stats](https://github-readme-stats.vercel.app/api?username=Parrot90&show_icons=true&theme=transparent)
-
 
   <pre><code><h3>💻 GitHub Profile Stats</pre></code></h3>
 
