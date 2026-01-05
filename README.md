@@ -124,10 +124,6 @@ Ayush is a software engineer with a passion for Data Science, Python, MLOps, and
   </p>
 </details>
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
-
- <pre><code><h3>👇 Few things about my Github</h3></code></pre>
-
 
   <pre><code><h3>💻 GitHub Profile Stats</pre></code></h3>
 
